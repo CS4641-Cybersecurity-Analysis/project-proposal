@@ -63,7 +63,7 @@ st.dataframe(
     np.array([
         ['Shreya', 'Introduction/Background, Presentation'],
         ['Saim', 'Methods'],
-        ['Vinay', 'Results/Discussion'],
+        ['Vinay', 'Results/Discussion, Presentation'],
         ['Timothy', 'Problem Definition, Streamlit, Review'],
         ['Olivia', 'Processing methods, Gantt Chart']
     ]),
