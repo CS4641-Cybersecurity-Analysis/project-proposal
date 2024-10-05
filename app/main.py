@@ -56,7 +56,7 @@ st.markdown(
 )
 
 st.header("Gantt Chart")
-st.image('./assets/img/gantt-chart.png', "Project Gantt Chart")
+st.image('./app/assets/img/gantt-chart.png', "Project Gantt Chart")
 
 st.header("Contribution Table")
 st.dataframe(
