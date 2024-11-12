@@ -1,7 +1,6 @@
 import helper.util as util
 import numpy as np
 import streamlit as st
-from streamlit_pdf_viewer import pdf_viewer
 
 # placeholder name until problem fully defined
 st.title("CS 4641 Project Midterm Checkpoint - Cybersecurity Analysis")
