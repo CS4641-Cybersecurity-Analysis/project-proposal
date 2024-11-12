@@ -10,4 +10,4 @@ Use the conda environment defined in `environment/env_win.yml` or just ensure th
 
 Edit `Proposal.py` in the `app` directory to make changes to the page. Or edit `<title>.py` in the `app/pages` directory to modify other pages.
 
-Run `streamlit run app/Proposal.py` or `python -m streamlit run app/Proposal.py` while in the project root directory to view the app in the browser.
+Run `streamlit run app/main.py` or `python -m streamlit run app/main.py` while in the project root directory to view the app in the browser.
