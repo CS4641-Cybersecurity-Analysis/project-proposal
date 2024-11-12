@@ -8,6 +8,6 @@ Use the conda environment defined in `environment/env_win.yml` or just ensure th
 
 `conda env create -f env_win.yml` to create the environment and `conda activate cs4641-project-proposal` to activate it. Note the `yml` file detailing the environment is only tested on Windows, but will likely work on Linux/MacOS.
 
-Edit `main.py` in the `app` directory to make changes to the page.
+Edit `Proposal.py` in the `app` directory to make changes to the page. Or edit `<title>.py` in the `app/pages` directory to modify other pages.
 
-Run `streamlit run app/main.py` or `python -m streamlit run app/main.py` while in the project root directory to view the app in the browser.
+Run `streamlit run app/Proposal.py` or `python -m streamlit run app/Proposal.py` while in the project root directory to view the app in the browser.
